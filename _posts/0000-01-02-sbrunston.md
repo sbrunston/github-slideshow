@@ -1,8 +1,7 @@
 ---
 layout: slide
-title: "Welcome to our second slide"
+title: "Welcome to the 2nd slide"
 ---
-Your edited text
 Use the left arrow to go back to the first slide!
 
 More text could go here. 
